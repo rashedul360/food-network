@@ -1,0 +1,208 @@
+* {
+  margin: 0;
+}
+section {
+  display: flex;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+.half_width {
+  width: 50%;
+  height: 600px;
+}
+.about {
+  background-image: url("images/dream-bg.png");
+  background-position: right;
+  background-repeat: no-repeat;
+}
+span {
+  color: orange;
+}
+.middle_first {
+  background-image: url("images/shapes/Frame\ 57.jpg");
+  background-repeat: no-repeat;
+}
+.span {
+  color: orange;
+}
+.top_main_img {
+  width: 73%;
+  padding: -7%;
+  margin-top: 52px;
+  margin-left: 80px;
+}
+.main_top_div {
+  margin-top: 25px;
+}
+.main_top_div h1 {
+  font-size: 43px;
+  color: #707070;
+  padding: 18%;
+  margin-top: 34px;
+  margin-left: 52px;
+}
+.main_top_div p {
+  font-size: 17px;
+  margin-left: 164px;
+  margin-top: -69px;
+  color: #707070;
+}
+.main_anchore {
+  margin-top: 47px;
+  margin-left: 163px;
+}
+.button_main {
+  padding: 14px 29px;
+  border-radius: 20px;
+  background: linear-gradient(45deg, lightsalmon, tomato);
+  text-decoration: none;
+  color: white;
+}
+.middle_main_img {
+  width: 38%;
+  margin-top: 51px;
+  padding: 13px;
+  margin-left: 149px;
+}
+.middle_first {
+  height: 446px;
+}
+.about {
+  margin-top: 151px;
+}
+.middle_anchore {
+  margin-top: 70px;
+}
+.about p {
+  margin-top: 30px;
+  width: 400px;
+  text-align: justify;
+  color: #707070;
+}
+.about h1 {
+  color: #707070;
+  font-size: 36px;
+}
+#my_recipes h1 {
+  text-align: center;
+}
+#my_recipes_id {
+  text-align: center;
+  width: 600px;
+  text-align: justify;
+}
+.item_sec div img {
+  width: 90%;
+  /* margin: 0 auto; */
+  /* margin-left: 30px; */
+  padding: 17px;
+}
+h1 {
+  color: #707070;
+}
+p {
+  color: #707070;
+}
+.item_sec {
+  width: 100%;
+  height: 480px;
+  margin-top: 50px;
+}
+.item_one {
+  background: #fff;
+  border-radius: 10px;
+  width: 30%;
+  box-shadow: 10px 10px 34px 21px #ddd;
+  border-radius: 15px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.item_two {
+  background-repeat: #fff;
+  border-radius: 10px;
+  width: 30%;
+  box-shadow: 10px 10px 34px 21px #ddd;
+  border-radius: 15px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.item_three {
+  background-repeat: #fff;
+  border-radius: 10px;
+  width: 30%;
+  box-shadow: 10px 10px 34px 21px #ddd;
+  border-radius: 15px;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.h1 {
+  padding: 23px;
+}
+.p {
+  padding: 23px;
+  margin-top: -33px;
+}
+
+.social_sec {
+  padding: 10px;
+  margin: 145px;
+  box-shadow: 10px 10px 60px 10px #aaa;
+  height: 200px;
+  border-radius: 20px;
+}
+.main_dd {
+  padding: 7%;
+  margin-left: 28px;
+}
+.main_dd h1 {
+  font-size: 42px;
+  color: black;
+}
+.main_dd p {
+  margin-top: 10px;
+}
+.img_SVG {
+  width: 323px;
+}
+.svg {
+  border-radius: 60px;
+}
+.complaint input {
+  padding: 10px;
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+  margin-left: 166px;
+  border-radius: 10px;
+  border: 3px solid #6c63ff;
+}
+.complaint textarea {
+  margin-left: 167px;
+  border-radius: 10px;
+  border: 3px solid #6c63ff;
+}
+.svg-g {
+  margin-top: 237px;
+}
+.complaint_submit {
+  margin-left: 84px;
+}
+.fotter_sec {
+  margin-top: 200px;
+  background: black;
+  height: 200px;
+}
+footer {
+  width: 100%;
+}
+footer h1 {
+  text-align: center;
+  margin-top: 50px;
+}
+footer p {
+  text-align: center;
+  color: whitesmoke;
+  margin-top: 20px;
+}
